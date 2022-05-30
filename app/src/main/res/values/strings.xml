@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Piratof</string>
+    <string name="app_in_name">Piratof</string>
+    <string name="sales_icon">Sales</string>
+    <string name="main_register">Регистрация</string>
+    <string name="main_login">Войти</string>
+    <string name="main_btn_email">Email</string>
+    <string name="main_btn_password">Password</string>
+    <string name="main_btn_username">Username</string>
+    <string name="main_rgs">Зарегистрироваться</string>
+    <string name="main_lgn">Введите все данные для регистрации</string>
+    <string name="main_signIn">Авторизация</string>
+    <string name="contacts_text">Выход</string>
+    <string name="about_text">Профиль</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Pirat</string>
+    <string name="logo_of_app_2">Of</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+    <string name="course_desc">За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+</resources>

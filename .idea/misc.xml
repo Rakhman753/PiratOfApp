@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/btn_edittext_custom.xml" value="0.192" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/btn_stroke_main_press_white.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/btn_stroke_main_press_white_30.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/custom_button_login.xml" value="0.192" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/custom_button_register.xml" value="0.192" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/ic_category.xml" value="0.192" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/ic_main_fon.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/ic_main_krug.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/ic_register.xml" value="0.192" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/style_btn_purple_main.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/style_btn_purple_main_30.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/style_btn_purple_main_press.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/drawable/style_btn_purple_main_press_30.xml" value="0.1995" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/font/.xml" value="0.303125" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/font/onefont.xml" value="0.303125" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/activity_course_page.xml" value="0.26992753623188404" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/activity_order_page.xml" value="0.26992753623188404" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/category_item.xml" value="0.26992753623188404" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/course_item.xml" value="0.26992753623188404" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/register_window.xml" value="0.26992753623188404" />
+        <entry key="..\:/AndroidPr/Endy Corse/app/src/main/res/layout/sign_in_window.xml" value="0.26992753623188404" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

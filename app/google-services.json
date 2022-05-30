@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047801141531",
+    "project_id": "endycorse",
+    "storage_bucket": "endycorse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047801141531:android:fd92662ace9ac0ffb81bbe",
+        "android_client_info": {
+          "package_name": "old.mustafaev.endy_corse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047801141531-l4qhkcr6r7hh2vu32gvr5kuo3q80p5uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "old.mustafaev.endy_corse",
+            "certificate_hash": "e4e799bec71a14a55a119054d1755388454dfbb5"
+          }
+        },
+        {
+          "client_id": "1047801141531-h5usf4mh13d4tjdk9a5bfg743kg3liu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyATkTxChXqYzperxsRheXLvaWr7ZOaA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047801141531-h5usf4mh13d4tjdk9a5bfg743kg3liu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

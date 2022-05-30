@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_fon_widget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:text="@string/main_signIn"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:textSize="30sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="200dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            app:srcCompat="@drawable/ic_voyti" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emailField"
+            android:hint="@string/main_btn_email"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/black"
+            android:textColorHint="@color/purple_main_login"
+            android:background="@drawable/btn_edittext_custom"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp">
+
+        </com.google.android.material.textfield.TextInputEditText>
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/passField"
+            android:hint="@string/main_btn_password"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:textColor="@color/black"
+            android:textColorHint="@color/purple_main_login"
+            android:background="@drawable/btn_edittext_custom"
+            android:textSize="20sp">
+
+        </com.google.android.material.textfield.TextInputEditText>
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
